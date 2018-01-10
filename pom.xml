@@ -10,7 +10,7 @@
 		<repository>
 			<id>Dynabic.Artifactory.Aspose.aspose</id>
 			<name>Dynabic.Artifactory.Aspose.aspose</name>
-			<url>https://maven-qa.aspose.com/artifactory/aspose/</url>
+			<url>http://maven-qa.aspose.com/artifactory/aspose/</url>
 		</repository>
 	</repositories>
 	<dependencies>
